@@ -1,0 +1,27 @@
+{
+  "name": "test-hydra",
+  "version": "1.0.0",
+  "description": "Introduction to Hydra for ExpressJS Developers",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilsatya/test-hydra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilsatya/test-hydra/issues"
+  },
+  "homepage": "https://github.com/lilsatya/test-hydra#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hydra-express": "^1.7.0"
+  }
+}
